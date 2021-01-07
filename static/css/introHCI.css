@@ -1,3 +1,29 @@
+.project {
+     margin-left: 20px;
+}
+
+#project1 {
+     width:100%;
+     max-width:250px
+}
+#project2 {
+     width:50%;
+     max-width:150px
+}
+#project3 {
+     width:100%;
+     max-width:200px
+}
+#project4 {
+     width:100%;
+     max-width:250px
+}
+#project5 {
+     width:100%;
+     max-width:400px;
+}
+
+
 /* applies to anything of class "example-class-selector" */
 .example-class-selector {
 	margin-top: 2em;
